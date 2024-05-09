@@ -23,23 +23,3 @@ To start using the app, simply click on the link below:
 3. **Map of Pickups**: View pickup locations on the map of NYC.
 4. **Filter by Hour**: Use the slider to filter pickup data by hour.
 5. **Toggle Raw Data Display**: Show or hide the raw data table by checking or unchecking the checkbox.
-
-## Share Your App
-
-After using the app, you can also share it with others! Follow these simple steps:
-
-1. Put your app in a public GitHub repo (ensure it has a `requirements.txt`).
-2. Sign into [Streamlit Community Cloud](https://share.streamlit.io).
-3. Click 'Deploy an app' and paste in your GitHub URL.
-
-That's it! You now have a publicly deployed app that you can share with the world.
-
-## Get Help
-
-If you encounter any difficulties or have questions, you can:
-
-- Visit our [community forum](https://discuss.streamlit.io) and post a question.
-- Get quick help from the command line with `streamlit help`.
-- Go through our [Knowledge Base](https://docs.streamlit.io/library) for tips, tutorials, and articles.
-
-Enjoy exploring the UberTracker NYC web app! If you have any feedback or suggestions, feel free to reach out. Happy analyzing!
