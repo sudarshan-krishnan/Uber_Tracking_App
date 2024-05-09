@@ -48,22 +48,3 @@ With data from Bangalore incorporated into the app, we aim to optimize the alloc
 
 By expanding the scope of the UberTracker web app to include Bangalore, India, and implementing optimization strategies based on recorded booking times, we aim to improve the efficiency of Uber services and enhance the overall experience for both passengers and drivers in the region.
 
-## Share Your App
-
-After using the app, you can also share it with others! Follow these simple steps:
-
-1. Put your app in a public GitHub repo (ensure it has a `requirements.txt`).
-2. Sign into [Streamlit Community Cloud](https://share.streamlit.io).
-3. Click 'Deploy an app' and paste in your GitHub URL.
-
-That's it! You now have a publicly deployed app that you can share with the world.
-
-## Get Help
-
-If you encounter any difficulties or have questions, you can:
-
-- Visit our [community forum](https://discuss.streamlit.io) and post a question.
-- Get quick help from the command line with `streamlit help`.
-- Go through our [Knowledge Base](https://docs.streamlit.io/library) for tips, tutorials, and articles.
-
-Enjoy exploring the UberTracker NYC web app! If you have any feedback or suggestions, feel free to reach out. Happy analyzing!
