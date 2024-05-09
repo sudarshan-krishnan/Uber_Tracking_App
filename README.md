@@ -10,7 +10,7 @@ To start using the app, simply click on the link below:
 
 ## Features
 
-- **Fetch Data**: Fetch and cache the Uber dataset for pickups and drop-offs in NYC using Amazon's Web API and Amazon S3.
+- **Fetch Data**: Utilize Amazon's WAS API and Amazon S3 to fetch and cache the Uber dataset for pickups and drop-offs in NYC.
 - **Visualize Data**: View the number of pickups by hour through an interactive histogram.
 - **Map Visualization**: Plot pickup locations on a map of NYC.
 - **Filter Data**: Filter pickup data by hour using a slider.
