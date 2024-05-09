@@ -6,7 +6,7 @@ Welcome to the UberTracker NYC web app! This interactive app allows you to explo
 
 To start using the app, simply click on the link below:
 
-[UberTracker NYC Web App](https://ubertracker-nyc.streamlit.app/)
+[UberTracker NYC Web App](https://ubertracking.streamlit.app)
 
 ## Features
 
